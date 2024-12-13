@@ -31,9 +31,8 @@ Our mission is to provide:
 ### Contact Us
 Let’s discuss how we can bring your ideas to life! 📩
 
-- 🌐 **Website**: [Coming Soon!]
-- 📧 **Email**: [info@thewebarchitech.com](mailto:info@thewebarchitech.com)
-- 📞 **Phone**: +1 (555) 123-4567
+- 🌐 **Website**: www.thewebarchitech.com
+- 📧 **Email**: [thewebarchitech@gmail.com](mailto:thewebarchitech@gmail.com)
 - 📍 **Location**: Youngstown, Ohio, USA
 
 ### Our Projects
@@ -45,7 +44,6 @@ We’re proud to showcase our work. Check out our pinned repositories below to s
 ### Let's Connect
 Stay updated with our latest projects and industry insights:
 - [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Twitter](https://twitter.com/your-profile)  
 
 ---
 *Helping small businesses thrive with innovative web solutions.*
